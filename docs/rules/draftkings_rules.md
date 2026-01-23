@@ -1,6 +1,6 @@
 # DraftKings NFL Rules
 
-Link: https://www.draftkings.com/help/rules/1/
+Link: [https://www.draftkings.com/help/rules/1/](https://www.draftkings.com/help/rules/1/)
 
 Discovery method: Direct lookup on the DraftKings help center.
 
