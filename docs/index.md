@@ -3,6 +3,7 @@ theme: jekyll-theme-midnight
 ---
 # Milly Map Sources
 
+[Synthesis Blueprint](synthesis_blueprint.md)
 [Module 3 Collection Plan](collection_plan.md)
 
 This site is my sources roadmap for studying DraftKings NFL GPP contests with a focus on Milly Maker style fields. My goal is simple. Build repeatable decision rules for roster construction, then test those rules against results, tools, and research.
