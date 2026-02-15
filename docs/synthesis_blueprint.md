@@ -19,7 +19,6 @@ I will build a decision tree style guide with checklists for high volume portfol
 
 ## Annotated Outline
 
-### Title
 Milly Map Build Blueprint: DraftKings NFL GPP Process Guide
 
 ### 1. Platform constraints and non negotiables
